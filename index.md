@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## What is Ethics Bowl?
 
-You can use the [editor on GitHub](https://github.com/rostrocello/sieb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Shanghai Interschool Ethics Bowl is a competitive yet collaborative event in which students discuss real-life ethical issues. In each round of competition, teams take turns analyzing cases about complex ethical dilemmas and responding to questions and comments from the other team and from a panel of judges. An ethics bowl differs from a debate competition in that students are not assigned opposing views; rather, they defend whichever position they think is correct, provide each other with constructive criticism, and win by demonstrating that they have thought rigorously and systematically about the cases and engaged respectfully and supportively with all participants. Data from NHSEB surveys shows that this event teaches and promotes ethical awareness, critical thinking, civil discourse, civic engagement, and an appreciation for multiple points of view.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SIEB’s goal is to do more than teach students how to think through ethical issues: It is to teach students how to think through ethical issues together, as fellow citizens in a complex moral and political community.
 
-### Markdown
+## Contact Us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rostrocello/sieb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: sieb2020@163.com
