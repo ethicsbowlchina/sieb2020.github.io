@@ -20,4 +20,3 @@ Executive Committee:
 
 SIEB Email: sieb2020@163.com  
 
-Director Email: leohuang501@hotmail.com
