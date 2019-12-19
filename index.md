@@ -10,7 +10,7 @@ Rules and Procedures
 
 Case Set 2020
 
-## The SIEB Team
+## People
 
 Director: Leo Huang
 
