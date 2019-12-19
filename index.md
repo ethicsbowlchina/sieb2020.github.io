@@ -7,14 +7,17 @@ SIEB's goal is to do more than teach students how to think through ethical issue
 ## Resources
 
 Rules and Procedures
+
 Case Set 2020
 
 ## The SIEB Team
 
 Director: Leo Huang
+
 Excecutive Committee: 
 
 ## Contact Us
 
 SIEB Email: sieb2020@163.com
+
 Director Email: leohuang501@hotmail.com
