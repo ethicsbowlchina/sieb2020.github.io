@@ -8,9 +8,9 @@ SIEB's goal is to do more than teach students how to think through ethical issue
 
 ## Resources
 
-Rules and Procedures
+[Team's Guide](https://baidu.com)
 
-Case Set 2020
+[Case Set](https://baidu.com)
 
 ## Contact Us
 
