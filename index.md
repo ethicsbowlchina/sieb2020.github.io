@@ -10,10 +10,6 @@ Rules and Procedures
 
 Case Set 2020
 
-## People
-
-Christina Li, Doris Feng, Leo Huang (Director), Rachel Fei, Rachel Yan, Ray Zhu, Scarlett He, Sherry He
-
 ## Contact Us
 
 SIEB Email: sieb2020@163.com  
