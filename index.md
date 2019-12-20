@@ -12,7 +12,7 @@ Case Set 2020
 
 ## People
 
-Leo Huang (Director), Christina Li, Doris Feng, Rachel Fei, Rachel Yan, Ray Zhu, Scarlett He, Sherry He
+Christina Li, Doris Feng, Leo Huang (Director), Rachel Fei, Rachel Yan, Ray Zhu, Scarlett He, Sherry He
 
 ## Contact Us
 
