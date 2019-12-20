@@ -1,4 +1,4 @@
-[Home](https://sieb2020.github.io) | [Resources](https://sieb2020.github.io/resources) | [Schedule](https://sieb2020.github.io/schedule) | [Media](https://sieb2020.github.io/media) | [People](https://sieb2020.github.io/people) | [Sponsors](https://sieb2020.github.io/sponsors) | [FAQs](https://sieb2020.github.io/faqs)
+[Home](https://sieb2020.github.io) &#124; [Resources](https://sieb2020.github.io/resources) &#124; [Schedule](https://sieb2020.github.io/schedule) &#124; [Media](https://sieb2020.github.io/media) &#124; [People](https://sieb2020.github.io/people) &#124; [Sponsors](https://sieb2020.github.io/sponsors) &#124; [FAQs](https://sieb2020.github.io/faqs)
 
 ## What is Ethics Bowl?
 
