@@ -12,9 +12,7 @@ Case Set 2020
 
 ## People
 
-Director: Leo Huang
-
-Executive Committee: 
+Leo Huang (Director), Christina Li, Doris Feng, Rachel Fei, Rachel Yan, Ray Zhu, Scarlett He, Sherry He
 
 ## Contact Us
 
