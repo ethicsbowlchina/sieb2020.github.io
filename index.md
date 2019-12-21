@@ -14,5 +14,5 @@ SIEB's goal is to do more than teach students how to think through ethical issue
 
 ## Contact Us
 
-SIEB Email: sieb2020@163.com  
+SIEB Email: sieb2020@outlook.com  
 
