@@ -6,11 +6,27 @@ The Shanghai Interscholastic Ethics Bowl is a competitive yet collaborative even
 
 SIEB's goal is to do more than teach students how to think through ethical issues: It is to teach students how to think through ethical issues together, as fellow citizens in a complex moral and political community.
 
+## What is the Shanghai Interscholastic Ethcis Bowl?
+
+The Shanghai Interscholastic Ethics Bowl (SIEB) is the only known ethics bowl competition in China hosted at No.2 High School of East China Normal University. This year, the SIEB will become an official “International Affiliate” of the National High School Ethics Bowl (NHSEB), located in the US, at the University of North Carolina at Chapel Hill.
+
+## Who are the judges of the SIEB?
+
+The SIEB executive committee has a rigorous criterion for choosing judges. All of our judges are graduated from top universities in the US, including Williams College, Amherst College, Brown University, Davidson College, Emory University, Cornell University, Georgetown University,and Washington University in St. Louis. Two- thirds of them are native speakers and professional teachers. They have diverse backgrounds, which should be highly recommended in the debate of ethics.
+
+## New to the Ethics Bowl? No worries!
+
+Every team participating in the SIEB will receive free online training by the NHSEB coaches (it’s official!) in the US. Experienced coaches of ethics bowl teams in the US will teach our participants ethics theories of different philosophers and how these theories can be applied to analyze real-life cases of ethics. They will provide an adequate amount of supplementary materials for our participants to read and discuss on. We take the training sessions seriously (even more seriously than the competition itself), since we understand so well that students generally learn the most before the match—during the discussions they have with their coach and among themselves. The match day is, to some extent, only a demonstration on how well the teams have been studying on those cases.
+
+## Registration Fees?
+
+The SIEB is totally free of charge, including the training sessions and the competition itself. (Well, actually the meals aren't included...) Our aim is to provide middle and high school students in China with the most fascinating experience in learning ethics and philosophy, while promoting “public” philosophy discussions and civic engagement through events like the SIEB.
+
 ## Resources
 
-[Team's Guide](https://baidu.com)
+[A brief introduction of the SIEB](https://pan.baidu.com/s/18-7lfs6e6YYAWh1eiwOXeA) Passcode: icht
 
-[Case Set](https://baidu.com)
+[SIEB rules](https://pan.baidu.com/s/1K6g3Vzco_9ALvSvyTGUzUQ) Passcode: 55qu
 
 ## Contact Us
 
