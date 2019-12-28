@@ -28,7 +28,7 @@ The SIEB is totally free of charge, including the training sessions and the comp
 
 [A brief introduction of the SIEB](https://pan.baidu.com/s/18-7lfs6e6YYAWh1eiwOXeA) Passcode: icht
 
-[SIEB rules](https://pan.baidu.com/s/1K6g3Vzco_9ALvSvyTGUzUQ) Passcode: 55qu
+[SIEB rules](https://pan.baidu.com/s/1QIPN6rurTFD-WIVSHsLwsg) Passcode: sg9e
 
 ## Contact Us
 
