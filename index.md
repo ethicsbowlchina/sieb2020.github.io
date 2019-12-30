@@ -1,11 +1,9 @@
 [Home](https://sieb2020.github.io) &#124; [Resources](https://sieb2020.github.io/resources) &#124; [Schedule](https://sieb2020.github.io/schedule) &#124; [Media](https://sieb2020.github.io/media) &#124; [People](https://sieb2020.github.io/people) &#124; [Sponsors](https://sieb2020.github.io/sponsors) &#124; [FAQs](https://sieb2020.github.io/faqs)
 
 ---
-<font color=red>IMPORTANT NOTICE</font>
+# IMPORTANT NOTICE
 
-The team manager need not be one of the team members, which means parents or teachers can serve as team managers as well. But in any case, since we will contact team managers via email, team managers must be in charge of informing teams in time of the information the SIEB provides through emails. It is strongly recommended that the team manager be the one who REGULARLY checks their emails.  
-
-**Participants need to understand that since the SIEB is a completely free program providing pre-college students with one of the best philosophy learning experience in Shanghai, the number of students participating will be limited in order to provide each participant with the most attention from our coaches and teachers. There will be a selection period after the registration is closed.**
+*Participants need to understand that since the SIEB is a completely free program providing pre-college students with one of the best philosophy learning experience in Shanghai, the number of students participating will be limited in order to provide each participant with the most attention from our coaches and teachers. There will be a selection period after the registration is closed.*
 ---
 
 ### What is Ethics Bowl?  
