@@ -4,6 +4,7 @@
 # IMPORTANT NOTICE
 
 *Participants need to understand that since the SIEB is a completely free program providing pre-college students with one of the best philosophy learning experience in Shanghai, the number of students participating will be limited in order to provide each participant with the most attention from our coaches and teachers. There will be a selection period after the registration is closed.*
+
 ---
 
 ### What is Ethics Bowl?  
