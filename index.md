@@ -21,7 +21,7 @@ The Shanghai Interscholastic Ethics Bowl (SIEB) is the only known ethics bowl co
 
 ### Who are the judges of the SIEB?
 
-The SIEB executive committee has a rigorous criterion for choosing judges. All of our judges are graduated from top universities in the US, including Williams College, Amherst College, Brown University, Davidson College, Emory University, Cornell University, Georgetown University,and Washington University in St. Louis. Two- thirds of them are native speakers and professional teachers. They have diverse backgrounds, which should be highly recommended in the debate of ethics.
+Most of our judges are graduated from top universities in the US. They are mostly are native speakers and professional teachers. They have diverse backgrounds, which should be highly recommended in the debate of ethics.
 
 ### New to the Ethics Bowl? No worries!
 
@@ -33,11 +33,9 @@ The SIEB is totally free of charge, including the training sessions and the comp
 
 ### Resources
 
-[A brief introduction of the SIEB](https://pan.baidu.com/s/18-7lfs6e6YYAWh1eiwOXeA) Passcode: icht
-
 [SIEB rules](https://pan.baidu.com/s/1QIPN6rurTFD-WIVSHsLwsg) Passcode: sg9e
 
 ### Contact Us
 
-SIEB Email: sieb2020@outlook.com  
+SIEB Email: sieb2020@163.com  
 
