@@ -3,6 +3,8 @@
 ### What is Ethics Bowl?  
   
   
+    
+    
 ![1poN9g.png](https://s2.ax1x.com/2020/01/18/1poN9g.png)
 
 The Shanghai Interscholastic Ethics Bowl is a competitive yet collaborative event in which students discuss real-life ethical issues. In each round of competition, teams take turns analyzing cases about complex ethical dilemmas and responding to questions and comments from the other team and from a panel of judges. An ethics bowl differs from a debate competition in that students are not assigned opposing views; rather, they defend whichever position they think is correct, provide each other with constructive criticism, and win by demonstrating that they have thought rigorously and systematically about the cases and engaged respectfully and supportively with all participants. Data from surveys shows that this event teaches and promotes ethical awareness, critical thinking, civil discourse, civic engagement, and an appreciation for multiple points of view.
@@ -19,7 +21,7 @@ The Shanghai Interscholastic Ethics Bowl (SIEB) is the only known ethics bowl co
 
 Most of our judges are graduated from top universities in the US. They are mostly are native speakers and professional teachers. They have diverse backgrounds, which should be highly recommended in the debate of ethics.
 
-### New to the Ethics Bowl? No worries!
+### New to the Ethics Bowl? Don't worry!
 
 Every team participating in the SIEB will receive free online training by the NHSEB coaches (it’s official!) in the US. Experienced coaches of ethics bowl teams in the US will teach our participants ethics theories of different philosophers and how these theories can be applied to analyze real-life cases of ethics. They will provide an adequate amount of supplementary materials for our participants to read and discuss on. We take the training sessions seriously (even more seriously than the competition itself), since we understand so well that students generally learn the most before the match—during the discussions they have with their coach and among themselves. The match day is, to some extent, only a demonstration on how well the teams have been studying on those cases.
 
