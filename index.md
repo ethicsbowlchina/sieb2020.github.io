@@ -2,7 +2,7 @@
 
 ### What is Ethics Bowl?  
   
-
+  
 ![1poN9g.png](https://s2.ax1x.com/2020/01/18/1poN9g.png)
 
 The Shanghai Interscholastic Ethics Bowl is a competitive yet collaborative event in which students discuss real-life ethical issues. In each round of competition, teams take turns analyzing cases about complex ethical dilemmas and responding to questions and comments from the other team and from a panel of judges. An ethics bowl differs from a debate competition in that students are not assigned opposing views; rather, they defend whichever position they think is correct, provide each other with constructive criticism, and win by demonstrating that they have thought rigorously and systematically about the cases and engaged respectfully and supportively with all participants. Data from surveys shows that this event teaches and promotes ethical awareness, critical thinking, civil discourse, civic engagement, and an appreciation for multiple points of view.
@@ -29,9 +29,4 @@ The SIEB is totally free of charge, including the training sessions and the comp
 
 ### Resources
 
-[SIEB rules](https://pan.baidu.com/s/1QIPN6rurTFD-WIVSHsLwsg) Passcode: sg9e
-
-### Contact Us
-
-SIEB Email: sieb2020@163.com  
-
+[SIEB rules](https://pan.baidu.com/s/1QIPN6rurTFD-WIVSHsLws
