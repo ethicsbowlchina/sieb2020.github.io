@@ -1,6 +1,7 @@
 [Home](https://sieb2020.github.io) &#124; [Resources](https://sieb2020.github.io/resources) &#124; [Schedule](https://sieb2020.github.io/schedule) &#124; [Media](https://sieb2020.github.io/media) &#124; [People](https://sieb2020.github.io/people) &#124; [Sponsors](https://sieb2020.github.io/sponsors) &#124; [FAQs](https://sieb2020.github.io/faqs)
 
 ### What is Ethics Bowl?  
+  
 
 ![1poN9g.png](https://s2.ax1x.com/2020/01/18/1poN9g.png)
 
