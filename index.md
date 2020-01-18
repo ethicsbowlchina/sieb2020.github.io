@@ -9,7 +9,7 @@
 
 ### What is Ethics Bowl?  
 
-![ethicsbowl.png](https://ws1.sinaimg.cn/large/a11167d9gy1gb0wip8496j23af0sk135.jpg)
+![ethicsbowl.png](https://ws1.sinaimg.cn/large/a11167d9gy1gb0wj8sn7uj23af0sk135.jpg)
 
 
 The Shanghai Interscholastic Ethics Bowl is a competitive yet collaborative event in which students discuss real-life ethical issues. In each round of competition, teams take turns analyzing cases about complex ethical dilemmas and responding to questions and comments from the other team and from a panel of judges. An ethics bowl differs from a debate competition in that students are not assigned opposing views; rather, they defend whichever position they think is correct, provide each other with constructive criticism, and win by demonstrating that they have thought rigorously and systematically about the cases and engaged respectfully and supportively with all participants. Data from surveys shows that this event teaches and promotes ethical awareness, critical thinking, civil discourse, civic engagement, and an appreciation for multiple points of view.
