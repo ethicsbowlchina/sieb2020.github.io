@@ -1,12 +1,5 @@
 [Home](https://sieb2020.github.io) &#124; [Resources](https://sieb2020.github.io/resources) &#124; [Schedule](https://sieb2020.github.io/schedule) &#124; [Media](https://sieb2020.github.io/media) &#124; [People](https://sieb2020.github.io/people) &#124; [Sponsors](https://sieb2020.github.io/sponsors) &#124; [FAQs](https://sieb2020.github.io/faqs)
 
----
-## IMPORTANT NOTICE
-
-*Participants need to understand that since the SIEB is a completely free program providing pre-college students with one of the best philosophy learning experience in Shanghai, the number of students participating will be limited in order to provide each participant with the most attention from our coaches and teachers. There will be a selection period after the registration is closed.*
-
----
-
 ### What is Ethics Bowl?  
 
 ![1poN9g.png](https://s2.ax1x.com/2020/01/18/1poN9g.png)
